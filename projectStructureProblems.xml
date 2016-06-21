@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-source-javadoc-path(library:application:)" />
+      <problem id="library-invalid-source-javadoc-path(library:application:)" />
+    </ignored-problems>
+  </component>
+</application>
+
