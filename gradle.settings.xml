@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="gradleVmOptions" value="-Xms1g -Xmx3g" />
+    <option name="gradleVmOptions" value="-Xms256m -Xmx1512m" />
   </component>
 </application>
