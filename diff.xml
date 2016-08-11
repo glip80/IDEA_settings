@@ -34,7 +34,9 @@
         <PlaceSettings />
       </entry>
       <entry key="TestsFiledAssertions">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="$CONSOLE_ENABLED$" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
