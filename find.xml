@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'atlas'" />
     <option name="defaultScopeName" value="Project 'atlas'" />
     <option name="SEARCH_SCOPE" value="Project 'atlas'" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -17,8 +17,8 @@
       <mask>*.java,*.scala</mask>
       <mask>*.groovy</mask>
       <mask>*.gradle</mask>
-      <mask>*.properties</mask>
       <mask>*.scala</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
