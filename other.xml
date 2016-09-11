@@ -21,30 +21,33 @@
             <id />
           </State>
           <State>
-            <id>DeclarationGroovy</id>
+            <id>Abstraction issuesJava</id>
           </State>
           <State>
-            <id>General</id>
+            <id>Code style issuesJava</id>
           </State>
           <State>
-            <id>Groovy</id>
+            <id>Declaration redundancyJava</id>
           </State>
           <State>
-            <id>Naming ConventionsGroovy</id>
+            <id>Java</id>
           </State>
           <State>
-            <id>Probable bugs</id>
+            <id>Probable bugsJava</id>
           </State>
           <State>
-            <id>Threading issuesGroovy</id>
+            <id>RELAX NG</id>
           </State>
           <State>
-            <id>UI Form Problems</id>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>GrMethodMayBeStatic</id>
+            <id>WeakerAccess</id>
           </State>
         </selected-state>
       </profile-state>
