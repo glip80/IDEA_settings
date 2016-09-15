@@ -1,6 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
     <option name="gradleVmOptions" value="-Xms256m -Xmx1512m" />
-    <option name="offlineWork" value="$CONSOLE_ENABLED$" />
   </component>
 </application>
