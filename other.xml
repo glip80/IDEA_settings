@@ -33,6 +33,9 @@
             <id>Java</id>
           </State>
           <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
             <id>Probable bugsJava</id>
           </State>
           <State>
@@ -47,7 +50,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>WeakerAccess</id>
+            <id>Guava</id>
           </State>
         </selected-state>
       </profile-state>
