@@ -6,9 +6,6 @@
     <variable name="LOGID" expression="createNextLogId(&quot;trace&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="debug" value="$LOGGER$.$LOGMETHOD$&quot;$LOGID$$END$&quot;, $THROWABLE$);" description="Logs a debug message" toReformat="true" toShortenFQNames="true">
@@ -18,9 +15,6 @@
     <variable name="LOGID" expression="createNextLogId(&quot;debug&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="info" value="$LOGGER$.$LOGMETHOD$&quot;$LOGID$$END$&quot;, $THROWABLE$);" description="Logs an info message" toReformat="true" toShortenFQNames="true">
@@ -30,9 +24,6 @@
     <variable name="LOGID" expression="createNextLogId(&quot;info&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="warn" value="$LOGGER$.$LOGMETHOD$&quot;$LOGID$$END$&quot;, $THROWABLE$);" description="Logs a warning message" toReformat="true" toShortenFQNames="true">
@@ -42,9 +33,6 @@
     <variable name="LOGID" expression="createNextLogId(&quot;warn&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="error" value="$LOGGER$.$LOGMETHOD$&quot;$LOGID$$END$&quot;, $THROWABLE$);" description="Logs an error message" toReformat="true" toShortenFQNames="true">
@@ -54,9 +42,6 @@
     <variable name="LOGID" expression="createNextLogId(&quot;error&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="log" value="private static final Logger LOG = LoggerFactory.getLogger($CLASS_NAME$.class);" description="logger" toReformat="false" toShortenFQNames="true">
