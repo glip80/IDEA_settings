@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="$CONSOLE_ENABLED$" />
     <option name="customScope" value="Project 'atlas'" />
     <option name="defaultScopeName" value="Project 'atlas'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="Project 'atlas'" />
     <recentFileMasks>
       <mask>*.html</mask>
