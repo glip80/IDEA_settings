@@ -13,10 +13,11 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="2" />
   </component>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="hocon" type="PLAIN_TEXT" />
+      <mapping ext="mustage" type="XHTML" />
     </extensionMap>
   </component>
 </application>
