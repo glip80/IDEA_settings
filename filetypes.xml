@@ -17,7 +17,6 @@
     <extensionMap>
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="hocon" type="PLAIN_TEXT" />
-      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="mustage" type="XHTML" />
     </extensionMap>
   </component>
