@@ -3,6 +3,12 @@
     <driver id="h2.unified" name="H2" dialect="H2">
       <artifact name="H2" use="$CONSOLE_ENABLED$" />
       <option name="auto-sync" value="$CONSOLE_ENABLED$" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/H2/1.4.192/h2-1.4.192.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/H2/1.4.192/h2-license.txt</url>
+      </library>
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <artifact name="Oracle" use="$CONSOLE_ENABLED$" />
@@ -48,6 +54,15 @@
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
       <artifact name="SQL Server" use="$CONSOLE_ENABLED$" />
       <option name="auto-sync" value="$CONSOLE_ENABLED$" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/SQL Server/4.0.2206.100/sqlserver-win-auth.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/SQL Server/4.0.2206.100/sqljdbc4-4.0.2206.100.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/SQL Server/4.0.2206.100/sqlserver-driver-license.txt</url>
+      </library>
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <artifact name="JTOpen (DB2 iSeries)" use="$CONSOLE_ENABLED$" />
