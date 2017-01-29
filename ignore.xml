@@ -1,25 +1,26 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" outerIgnoreWrapperHeight="100" version="1.5" starredTemplates="" settingsFixed="true">
+  <component name="IgnoreSettings" missingGitignore="$CONSOLE_ENABLED$" ignoredFileStatus="$CONSOLE_ENABLED$" outerIgnoreRules="$CONSOLE_ENABLED$" outerIgnoreWrapperHeight="100" version="1.6" starredTemplates="" unignoreActions="$CONSOLE_ENABLED$" settingsFixed="$CONSOLE_ENABLED$">
     <languages>
-      <language id="Bazaar" NEW_FILE="true" ENABLE="true" />
-      <language id="CloudFoundry" NEW_FILE="true" ENABLE="false" />
-      <language id="Chef" NEW_FILE="true" ENABLE="false" />
-      <language id="Cvs" NEW_FILE="true" ENABLE="true" />
-      <language id="Darcs" NEW_FILE="true" ENABLE="true" />
-      <language id="Docker" NEW_FILE="true" ENABLE="false" />
-      <language id="ESLint" NEW_FILE="true" ENABLE="false" />
-      <language id="Floobits" NEW_FILE="true" ENABLE="false" />
-      <language id="Fossil" NEW_FILE="true" ENABLE="true" />
-      <language id="Git" NEW_FILE="true" ENABLE="true" />
-      <language id="Git exclude" NEW_FILE="true" ENABLE="true" />
-      <language id="Jetpack" NEW_FILE="true" ENABLE="false" />
-      <language id="JSHint" NEW_FILE="true" ENABLE="false" />
-      <language id="Mercurial" NEW_FILE="true" ENABLE="true" />
-      <language id="Monotone" NEW_FILE="true" ENABLE="true" />
-      <language id="Nodemon" NEW_FILE="true" ENABLE="false" />
-      <language id="Npm" NEW_FILE="true" ENABLE="false" />
-      <language id="Perforce" NEW_FILE="true" ENABLE="true" />
-      <language id="Team Foundation" NEW_FILE="true" ENABLE="true" />
+      <language id="Bazaar" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="CloudFoundry" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Chef" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Cvs" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Darcs" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Docker" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="ESLint" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Floobits" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Fossil" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Git" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Git exclude" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Jetpack" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="JSHint" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Mercurial" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Monotone" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Nodemon" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Npm" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Perforce" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="StyleLint" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Team Foundation" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
     </languages>
     <userTemplates />
   </component>
