@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="ATLAS_ENV" value="int" />
-    <macro name="ATLAS_REGION" value="local" />
+    <macro name="ATLAS_REGION" value="dev" />
     <macro name="CONSOLE_ENABLED" value="true" />
     <macro name="GRADLE_HOME" value="D:/Tools/gradle-2.1" />
     <macro name="KOTLIN_BUNDLED" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3/plugins/Kotlin/kotlinc" />
