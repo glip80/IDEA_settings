@@ -1,10 +1,11 @@
 <application>
   <component name="ScalaApplicationSettings">
-    <option name="IGNORE_SETTINGS_CHECK" value="true" />
-    <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="IGNORE_SETTINGS_CHECK" value="$CONSOLE_ENABLED$" />
+    <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY" value="$CONSOLE_ENABLED$" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_AND_STRINGS" value="$CONSOLE_ENABLED$" />
   </component>
   <component name="TypeAwareHighlightingApplicationState">
-    <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
+    <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="$CONSOLE_ENABLED$" />
   </component>
 </application>

@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'atlas'" />
     <option name="defaultScopeName" value="Project 'atlas'" />
-    <option name="localCaseSensitive" value="$CONSOLE_ENABLED$" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="Project 'atlas'" />
     <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
