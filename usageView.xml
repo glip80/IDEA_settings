@@ -1,9 +1,13 @@
 <application>
+  <component name="ImportFilteringUsageViewSetting">
+    <option name="SHOW_IMPORTS" value="false" />
+  </component>
   <component name="UsageViewSettings">
+    <option name="expanded" value="$CONSOLE_ENABLED$" />
     <option name="filterDuplicatedLine" value="$CONSOLE_ENABLED$" />
+    <option name="IS_EXPANDED" value="$CONSOLE_ENABLED$" />
     <option name="IS_FILTER_DUPLICATED_LINE" value="$CONSOLE_ENABLED$" />
-    <option name="GROUP_BY_PACKAGE" value="false" />
-    <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
+    <option name="GROUP_BY_MODULE" value="false" />
     <option name="GROUP_BY_SCOPE" value="$CONSOLE_ENABLED$" />
   </component>
 </application>
