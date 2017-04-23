@@ -4,7 +4,7 @@
     <option name="FORCE_CLASSIC_VM" value="$CONSOLE_ENABLED$" />
     <option name="SKIP_SYNTHETIC_METHODS" value="$CONSOLE_ENABLED$" />
     <option name="SKIP_CLASSLOADERS" value="$CONSOLE_ENABLED$" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="$CONSOLE_ENABLED$" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -68,17 +68,5 @@
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="$CONSOLE_ENABLED$" />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
