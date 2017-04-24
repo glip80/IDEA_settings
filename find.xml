@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -19,8 +19,11 @@
       <mask>*.groovy</mask>
       <mask>*.gradle</mask>
       <mask>*.properties</mask>
-      <mask>*.scala</mask>
       <mask>*.java</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
