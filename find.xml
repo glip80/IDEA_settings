@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="$CONSOLE_ENABLED$" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -14,10 +17,6 @@
       <mask>*.gradle</mask>
       <mask>*.properties</mask>
       <mask>*.java</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scala</mask>
       <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -28,6 +27,12 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scalk</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
