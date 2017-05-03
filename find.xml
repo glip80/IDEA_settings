@@ -12,7 +12,6 @@
       <mask>*.mxml</mask>
       <mask>*.java,*.scala</mask>
       <mask>*.gradle</mask>
-      <mask>*.properties</mask>
       <mask>*.java</mask>
       <mask>*.jso</mask>
       <mask>*.js</mask>
@@ -30,6 +29,9 @@
       <mask>*.scal</mask>
       <mask>*.sca</mask>
       <mask>*.scala</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
