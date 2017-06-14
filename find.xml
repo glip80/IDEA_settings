@@ -1,25 +1,37 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="$CONSOLE_ENABLED$" />
-    <option name="customScope" value="Project 'atlas'" />
-    <option name="defaultScopeName" value="Project 'atlas'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="$CONSOLE_ENABLED$" />
-    <option name="SEARCH_SCOPE" value="Project 'atlas'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
       <mask>*.java,*.scala</mask>
-      <mask>*.groovy</mask>
       <mask>*.gradle</mask>
-      <mask>*.properties</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scalk</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
       <mask>*.scala</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
