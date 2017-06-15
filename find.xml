@@ -4,17 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java,*.scala</mask>
       <mask>*.gradle</mask>
       <mask>*.jso</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
@@ -30,8 +23,16 @@
       <mask>*.prop</mask>
       <mask>*.properties</mask>
       <mask>*</mask>
+      <mask>*gr</mask>
+      <mask>*gra</mask>
+      <mask>*grad</mask>
+      <mask>*gradl</mask>
+      <mask>*gradle</mask>
       <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.ja</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
