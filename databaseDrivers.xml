@@ -38,6 +38,7 @@
     <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
       <artifact name="Xerial SQLiteJDBC" use="$CONSOLE_ENABLED$" />
       <option name="auto-sync" value="$CONSOLE_ENABLED$" />
+      <property name="enable_load_extension" value="$CONSOLE_ENABLED$" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="$CONSOLE_ENABLED$" />
@@ -52,8 +53,9 @@
       <property name="retrieveMessagesFromServerOnGetMessage" value="$CONSOLE_ENABLED$" />
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
-      <artifact name="SQL Server" use="$CONSOLE_ENABLED$" />
+      <artifact name="SQL Server" use="$CONSOLE_ENABLED$" version="6.0.8112.100" />
       <option name="auto-sync" value="$CONSOLE_ENABLED$" />
+      <option name="auto-commit" value="$CONSOLE_ENABLED$" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/SQL Server/4.0.2206.100/sqlserver-win-auth.jar</url>
       </library>
