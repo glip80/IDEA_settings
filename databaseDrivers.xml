@@ -1,8 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
     <driver id="h2.unified" name="H2" dialect="H2">
-      <artifact name="H2" use="$CONSOLE_ENABLED$" />
+      <artifact name="H2" use="$CONSOLE_ENABLED$" version="1.4.192" />
       <option name="auto-sync" value="$CONSOLE_ENABLED$" />
+      <option name="auto-commit" value="$CONSOLE_ENABLED$" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/H2/1.4.192/h2-1.4.192.jar</url>
       </library>

@@ -1,5 +1,5 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="$CONSOLE_ENABLED$" ignoredFileStatus="$CONSOLE_ENABLED$" outerIgnoreRules="$CONSOLE_ENABLED$" outerIgnoreWrapperHeight="100" version="1.7.6" starredTemplates="" unignoreActions="$CONSOLE_ENABLED$" hideIgnoredFiles="false" informTrackedIgnored="$CONSOLE_ENABLED$" notifyIgnoredEditing="$CONSOLE_ENABLED$">
+  <component name="IgnoreSettings" missingGitignore="$CONSOLE_ENABLED$" ignoredFileStatus="$CONSOLE_ENABLED$" outerIgnoreRules="$CONSOLE_ENABLED$" outerIgnoreWrapperHeight="100" version="1.7.6" starredTemplates="" unignoreActions="$CONSOLE_ENABLED$" hideIgnoredFiles="false" informTrackedIgnored="false" notifyIgnoredEditing="$CONSOLE_ENABLED$">
     <languages>
       <language id="Bazaar" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
       <language id="CloudFoundry" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
