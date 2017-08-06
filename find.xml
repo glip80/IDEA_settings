@@ -23,7 +23,6 @@
       <mask>*grad</mask>
       <mask>*gradl</mask>
       <mask>*gradle</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.</mask>
@@ -34,6 +33,7 @@
       <mask>*.scala</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
