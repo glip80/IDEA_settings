@@ -1,6 +1,5 @@
 <application>
   <component name="ProjectViewSharedSettings">
     <option name="autoscrollFromSource" value="$CONSOLE_ENABLED$" />
-    <option name="autoscrollToSource" value="$CONSOLE_ENABLED$" />
   </component>
 </application>

@@ -7,24 +7,12 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CompileDirty" is_action="$CONSOLE_ENABLED$" action_type="1" position="7">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="MakeModule" is_action="$CONSOLE_ENABLED$" action_type="1" position="8">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.Pull" is_action="$CONSOLE_ENABLED$" action_type="1" position="17">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="CompileDirty" icon="$USER_HOME$/Downloads/faenza-icon-theme_1.3/Faenza/Faenza/actions/16/package-installed-locked.png" />
     <action id="MakeModule" icon="$USER_HOME$/Downloads/faenza-icon-theme_1.3/Faenza/Faenza/actions/16/package-reinstall.png" />
+    <action id="CompileDirty" icon="$USER_HOME$/Downloads/faenza-icon-theme_1.3/Faenza/Faenza/actions/16/package-installed-locked.png" />
   </component>
 </application>
