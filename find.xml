@@ -22,20 +22,20 @@
       <mask>*gradl</mask>
       <mask>*gradle</mask>
       <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
       <mask>*.scal</mask>
-      <mask>*.scala</mask>
-      <mask>*.jav</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
