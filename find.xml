@@ -5,9 +5,8 @@
     <option name="localWholeWordsOnly" value="$CONSOLE_ENABLED$" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
@@ -31,12 +30,13 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.sca</mask>
       <mask>*.scala</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
