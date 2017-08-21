@@ -73,8 +73,9 @@
       <property name="prompt" value="false" />
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
-      <artifact name="MySQL Connector/J" use="$CONSOLE_ENABLED$" />
+      <artifact name="MySQL Connector/J" use="$CONSOLE_ENABLED$" version="5.1.40" />
       <option name="auto-sync" value="$CONSOLE_ENABLED$" />
+      <option name="auto-commit" value="$CONSOLE_ENABLED$" />
       <property name="autoReconnect" value="$CONSOLE_ENABLED$" />
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
