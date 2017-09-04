@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.groovy</mask>
-      <mask>*.scalk</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.properties</mask>
@@ -15,7 +14,6 @@
       <mask>*grad</mask>
       <mask>*gradl</mask>
       <mask>*gradle</mask>
-      <mask>*.scal</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.html</mask>
@@ -27,13 +25,16 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scala</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.saa</mask>
+      <mask>*.sa</mask>
+      <mask>*.s</mask>
+      <mask>*.sca</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
