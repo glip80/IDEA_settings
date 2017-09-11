@@ -1,8 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="$CONSOLE_ENABLED$" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="$CONSOLE_ENABLED$" />
+    <option name="CASE_SENSITIVE_SEARCH" value="$CONSOLE_ENABLED$" />
+    <option name="WHOLE_WORDS_ONLY" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*</mask>
@@ -22,18 +27,18 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.sc</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.saa</mask>
       <mask>*.sa</mask>
-      <mask>*.s</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
-      <mask>*.scala</mask>
       <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
