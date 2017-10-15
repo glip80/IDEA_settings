@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="$CONSOLE_ENABLED$" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*</mask>
