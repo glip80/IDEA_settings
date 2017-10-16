@@ -1,5 +1,5 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="$CONSOLE_ENABLED$" ignoredFileStatus="$CONSOLE_ENABLED$" outerIgnoreRules="$CONSOLE_ENABLED$" outerIgnoreWrapperHeight="100" version="1.7.6" starredTemplates="" unignoreActions="$CONSOLE_ENABLED$" hideIgnoredFiles="false" informTrackedIgnored="false" notifyIgnoredEditing="$CONSOLE_ENABLED$">
+  <component name="IgnoreSettings" missingGitignore="$CONSOLE_ENABLED$" ignoredFileStatus="$CONSOLE_ENABLED$" outerIgnoreRules="$CONSOLE_ENABLED$" outerIgnoreWrapperHeight="100" version="2.2.2" starredTemplates="" unignoreActions="$CONSOLE_ENABLED$" hideIgnoredFiles="false" informTrackedIgnored="false" notifyIgnoredEditing="$CONSOLE_ENABLED$">
     <languages>
       <language id="Bazaar" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
       <language id="CloudFoundry" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
@@ -12,6 +12,7 @@
       <language id="Fossil" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
       <language id="Git" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
       <language id="Git exclude" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Kubernetes Helm" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="Jetpack" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="JSHint" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="Mercurial" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
@@ -19,9 +20,12 @@
       <language id="Nodemon" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="Npm" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="Perforce" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Prettier" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="StyleLint" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="Stylint" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
+      <language id="Swagger Codegen" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
       <language id="Team Foundation" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="$CONSOLE_ENABLED$" />
+      <language id="Up" NEW_FILE="$CONSOLE_ENABLED$" ENABLE="false" />
     </languages>
     <userTemplates />
   </component>
