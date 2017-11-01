@@ -3,12 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*gr</mask>
-      <mask>*gra</mask>
-      <mask>*grad</mask>
       <mask>*gradl</mask>
       <mask>*gradle</mask>
       <mask>*.html</mask>
@@ -32,9 +28,13 @@
       <mask>*.sql</mask>
       <mask>*.s</mask>
       <mask>*.sca</mask>
-      <mask>*.scala</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*sc</mask>
+      <mask>*sca</mask>
+      <mask>*scal</mask>
+      <mask>*scala</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
