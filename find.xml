@@ -3,19 +3,16 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.saa</mask>
       <mask>*.sa</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.js</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scal</mask>
       <mask>*.sq</mask>
@@ -34,6 +31,10 @@
       <mask>*sca</mask>
       <mask>*scal</mask>
       <mask>*scala</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
