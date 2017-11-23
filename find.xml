@@ -12,14 +12,9 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*</mask>
-      <mask>*.sc</mask>
-      <mask>*.scal</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.s</mask>
-      <mask>*.sca</mask>
       <mask>*sc</mask>
-      <mask>*.scala</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.javba</mask>
@@ -34,6 +29,11 @@
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
