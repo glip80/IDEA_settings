@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="$CONSOLE_ENABLED$" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.saa</mask>
       <mask>*.sa</mask>
@@ -19,11 +19,8 @@
       <mask>*.sql</mask>
       <mask>*sc</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.javba</mask>
       <mask>*.javb</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*s</mask>
       <mask>*sca</mask>
       <mask>*scal</mask>
@@ -37,6 +34,9 @@
       <mask>*.sca</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
