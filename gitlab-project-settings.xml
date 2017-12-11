@@ -1,6 +1,6 @@
 <application>
   <component name="SettingsState">
-    <option name="host" value="" />
-    <option name="token" value="" />
+    <option name="host" value="https://gitlab.com" />
+    <option name="token" value="NU_sNLC_bLtzzXEZdHaW" />
   </component>
 </application>
